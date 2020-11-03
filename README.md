@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My Github Status](https://github-readme-stats.vercel.app/api?username=xiaowiba&show_icons=true&title_color=FF1493&icon_color=FF00FF&text_color=FF69B4&count_private=true&bg_color=0,ADD8E6,FFC0CB,FFF,FFC0CB,ADD8E6&include_all_commits=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=xiaowiba&show_icons=true&include_all_commits=true)
